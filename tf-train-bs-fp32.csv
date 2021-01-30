@@ -1,4 +1,5 @@
 name_gpu,num_gpu,alexnet,inception3,inception4,resnet152,resnet50,vgg16
+2x GTX 1070Ti,2,768,96,24,48,96,96
 RTX 3080,1,448,56,12,24,56,24
 2x RTX 3080,2,896,112,24,48,112,48
 RTX 3090,1,896,112,24,48,112,48
