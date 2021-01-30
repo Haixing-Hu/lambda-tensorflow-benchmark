@@ -1,0 +1,8 @@
+Memory	31.3669GB
+GPU 0	GeForce GTX 1070 Ti
+GPU 1	GeForce GTX 1070 Ti
+CUDA	V11.2.67
+Nvidia	460.32.03
+TF	2.4.1
+Kernel	4.15.0-112-generic
+Python	3.6.9
