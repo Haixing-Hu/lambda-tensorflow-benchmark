@@ -1,0 +1,8 @@
+Memory	31.3222GB
+CPU	Xeon(R)
+GPU 0	Tesla K80
+GPU 1	Tesla K80
+CUDA	V11.2.67
+TF	2.4.1
+Kernel	4.19.0-13-amd64
+Python	3.7.3
