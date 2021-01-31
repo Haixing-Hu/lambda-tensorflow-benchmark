@@ -30,18 +30,18 @@ Initializing graph
 WARNING:tensorflow:From /home/starfish/working/cell.ai/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/benchmark_cnn.py:2268: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
 Instructions for updating:
 Please switch to tf.train.MonitoredTrainingSession
-W0131 00:51:09.358033 139642213852992 deprecation.py:339] From /home/starfish/working/cell.ai/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/benchmark_cnn.py:2268: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+W0131 01:01:37.277326 139926979905344 deprecation.py:339] From /home/starfish/working/cell.ai/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/benchmark_cnn.py:2268: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
 Instructions for updating:
 Please switch to tf.train.MonitoredTrainingSession
 INFO:tensorflow:Running local_init_op.
-I0131 00:51:12.813097 139642213852992 session_manager.py:505] Running local_init_op.
+I0131 01:01:40.714677 139926979905344 session_manager.py:505] Running local_init_op.
 INFO:tensorflow:Done running local_init_op.
-I0131 00:51:13.338524 139642213852992 session_manager.py:508] Done running local_init_op.
+I0131 01:01:41.221356 139926979905344 session_manager.py:508] Done running local_init_op.
 Running warm up
 Done warm up
 Step	Img/sec	total_loss
-1	images/sec: 65.0 +/- 0.0 (jitter = 0.0)	7.309 1612083124
-10	images/sec: 65.0 +/- 0.1 (jitter = 0.2)	7.290 1612083131
+1	images/sec: 64.9 +/- 0.0 (jitter = 0.0)	7.309 1612083751
+10	images/sec: 65.1 +/- 0.1 (jitter = 0.4)	7.303 1612083758
 ----------------------------------------------------------------
-total images/sec: 64.99
+total images/sec: 65.13
 ----------------------------------------------------------------
