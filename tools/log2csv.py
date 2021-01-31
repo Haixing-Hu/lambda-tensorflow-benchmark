@@ -35,7 +35,7 @@ list_system = {
     "3970X-GeForce_RTX_3090_XLA": ([1, 2, 3], ['RTX 3090', '2x RTX 3090', '3x RTX 3090']),
 #    "7502-RTX_A6000_XLA_TF1_15": ([1, 2, 4, 8], ['RTX A6000', '2x RTX A6000', '4x RTX A6000', '8x RTX A6000']),
     "-GeForce_GTX_1070_Ti": ([2], ["2x GTX 1070Ti"]),
-    "Xeon(R)-Tesla_K80": ([2], "1x Tesla K80")
+    "Xeon(R)-Tesla_K80": ([2], ["1x Tesla K80"])
 }
 
 
